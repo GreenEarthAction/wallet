@@ -1,6 +1,7 @@
 ### Version v.4.0.5
 Android Binary:
 [https://static.green-entrepreneurship.co/download/GCGEAWallet-v.4.0.5.apk](https://static.green-entrepreneurship.co/download/GCGEAWallet-v.4.0.5.apk )
+- The current version of Wallet only supports Android devices running Android 13 (API level 33) or higher.
 
 # GEAWallet
 ### Features (v.4.0.5)
